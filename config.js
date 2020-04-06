@@ -3,15 +3,14 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Adam Teuscher',
+  subtitle: 'Computer science student at BYU. Researcher at BYU Vision Lab.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
-  menu: [
-    {
+  menu: [{
       label: 'Articles',
       path: '/'
     },
@@ -25,24 +24,24 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Adam Teuscher',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Computer science student at BYU. Researcher at BYU Vision Lab.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'adam.m.teuscher@gmail.com',
+      facebook: 'adam.teuscher',
+      telegram: '',
+      twitter: 'amteusch',
+      github: 'amteusch',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'amteusch',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: '',
+      youtube: 'UCLbsr4IgcVSuh0dseWq3_cA',
       soundcloud: '',
     }
   }
