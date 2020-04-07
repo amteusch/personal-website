@@ -11,17 +11,17 @@ module.exports = {
   googleAnalyticsId: 'UA-162873763-1',
   useKatex: false,
   menu: [{
-      label: 'Articles',
-      path: '/'
-    },
-    {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+    label: 'Articles',
+    path: '/'
+  },
+  {
+    label: 'About me',
+    path: '/pages/about'
+  },
+  {
+    label: 'Contact me',
+    path: '/pages/contacts'
+  }
   ],
   author: {
     name: 'Adam Teuscher',
