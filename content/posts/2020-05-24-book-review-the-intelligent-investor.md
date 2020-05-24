@@ -2,7 +2,7 @@
 template: post
 title: 'Book Review: The Intelligent Investor'
 slug: intelligent-investor
-draft: true
+draft: false
 date: 2020-05-24T02:46:03.412Z
 description: Review of The Intelligent Investor by Benjamin Graham
 category: Review
