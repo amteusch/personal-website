@@ -16,7 +16,7 @@ module.exports = {
   ],
   globals: {
     __PATH_PREFIX__: '',
-    __BASE_PATH__: ``, // add this line
+    __BASE_PATH__: '', // add this line
   },
   setupFiles: ['<rootDir>/jest/loadershim.js']
 };
